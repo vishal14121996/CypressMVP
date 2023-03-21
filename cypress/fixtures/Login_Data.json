@@ -1,0 +1,12 @@
+[
+    {
+"username": "vishalgi@gam.com",
+"password": "qqqqqaaqqqr123",
+"expected": "vishal"
+    },
+    {
+"username": "vishal.tyagi@gmai.com",
+"password": "adin123",
+"expected": "Invalid email or password. Please try again"
+    }
+]
