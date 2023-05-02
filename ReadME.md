@@ -1,7 +1,7 @@
 Git Commands
 
 git clone 
-git branch [ agar aaya main; shouln't push in main branch]
+git branch [ if comes; shouln't push in main branch]
 
 git checkout -b newBranchName
 git branch
